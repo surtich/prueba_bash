@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo adios y hola
+echo adios y hola a Pepe
